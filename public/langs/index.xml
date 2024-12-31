@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>List of Coding Languages Used on Blowfish</title>
+    <link>//localhost:1313/langs/</link>
+    <description>Recent content in List of Coding Languages Used on Blowfish</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>youremail@example.com (Attaphat Chana)</managingEditor>
+    <webMaster>youremail@example.com (Attaphat Chana)</webMaster>
+    <copyright>© 2024 Attaphat Chana</copyright>
+    <lastBuildDate>Sun, 15 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/langs/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Java</title>
+      <link>//localhost:1313/langs/java/</link>
+      <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (Attaphat Chana)</author>
+      <guid>//localhost:1313/langs/java/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Postgres</title>
+      <link>//localhost:1313/langs/postgres/</link>
+      <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (Attaphat Chana)</author>
+      <guid>//localhost:1313/langs/postgres/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>//localhost:1313/langs/python/</link>
+      <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (Attaphat Chana)</author>
+      <guid>//localhost:1313/langs/python/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Rust</title>
+      <link>//localhost:1313/langs/rust/</link>
+      <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (Attaphat Chana)</author>
+      <guid>//localhost:1313/langs/rust/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Scala</title>
+      <link>//localhost:1313/langs/scala/</link>
+      <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (Attaphat Chana)</author>
+      <guid>//localhost:1313/langs/scala/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Bash</title>
+      <link>//localhost:1313/langs/bash/</link>
+      <pubDate>Sun, 15 Jan 2023 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (Attaphat Chana)</author>
+      <guid>//localhost:1313/langs/bash/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>C</title>
+      <link>//localhost:1313/langs/c/</link>
+      <pubDate>Sun, 15 Jan 2023 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (Attaphat Chana)</author>
+      <guid>//localhost:1313/langs/c/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

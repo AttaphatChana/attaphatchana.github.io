@@ -1,0 +1,13 @@
+
+{{ $link := .Get "link" }}
+{{ $page := .Site.GetPage $link }}
+{{ if $page }}
+<section class="article-link">
+    <a href="{{ $page.Permalink }}"> 
+        <h5 >{{ $page.Title }}</h5> 
+    </a>
+    <p>{{ $page.Summary }}</p>
+</section>
+{{ else }}
+<p class="text-red-500">Could not find the page at {{ $link }}</p>
+{{ end }}

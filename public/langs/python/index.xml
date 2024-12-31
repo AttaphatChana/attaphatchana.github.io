@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on Blowfish</title>
+    <link>//localhost:1313/langs/python/</link>
+    <description>Recent content in Python on Blowfish</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>youremail@example.com (Attaphat Chana)</managingEditor>
+    <webMaster>youremail@example.com (Attaphat Chana)</webMaster>
+    <copyright>© 2024 Attaphat Chana</copyright>
+    <lastBuildDate>Sun, 15 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/langs/python/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Algorithm and Tractability</title>
+      <link>//localhost:1313/posts/alogorithm/</link>
+      <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (Attaphat Chana)</author>
+      <guid>//localhost:1313/posts/alogorithm/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Data Mining</title>
+      <link>//localhost:1313/posts/datamin/</link>
+      <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (Attaphat Chana)</author>
+      <guid>//localhost:1313/posts/datamin/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Principle of Data Science</title>
+      <link>//localhost:1313/posts/datasci/</link>
+      <pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (Attaphat Chana)</author>
+      <guid>//localhost:1313/posts/datasci/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Intro to programming</title>
+      <link>//localhost:1313/posts/intro/</link>
+      <pubDate>Thu, 15 Sep 2022 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (Attaphat Chana)</author>
+      <guid>//localhost:1313/posts/intro/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

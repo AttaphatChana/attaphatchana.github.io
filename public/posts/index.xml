@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Experience @ University on Blowfish</title>
+    <link>//localhost:1313/posts/</link>
+    <description>Recent content in Experience @ University on Blowfish</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>youremail@example.com (Attaphat Chana)</managingEditor>
+    <webMaster>youremail@example.com (Attaphat Chana)</webMaster>
+    <copyright>© 2024 Attaphat Chana</copyright>
+    <lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Algorithm and Tractability</title>
+      <link>//localhost:1313/posts/alogorithm/</link>
+      <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (Attaphat Chana)</author>
+      <guid>//localhost:1313/posts/alogorithm/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Data Mining</title>
+      <link>//localhost:1313/posts/datamin/</link>
+      <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (Attaphat Chana)</author>
+      <guid>//localhost:1313/posts/datamin/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Database Foundation</title>
+      <link>//localhost:1313/posts/database/</link>
+      <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (Attaphat Chana)</author>
+      <guid>//localhost:1313/posts/database/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Cloud Computing</title>
+      <link>//localhost:1313/posts/iii/</link>
+      <pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (Attaphat Chana)</author>
+      <guid>//localhost:1313/posts/iii/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Principle of Data Science</title>
+      <link>//localhost:1313/posts/datasci/</link>
+      <pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (Attaphat Chana)</author>
+      <guid>//localhost:1313/posts/datasci/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Software System Construction</title>
+      <link>//localhost:1313/posts/ssc/</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (Attaphat Chana)</author>
+      <guid>//localhost:1313/posts/ssc/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Functional and Parallel programming</title>
+      <link>//localhost:1313/posts/funpar/</link>
+      <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (Attaphat Chana)</author>
+      <guid>//localhost:1313/posts/funpar/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Data Structures and Abstraction</title>
+      <link>//localhost:1313/posts/dsoop/</link>
+      <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (Attaphat Chana)</author>
+      <guid>//localhost:1313/posts/dsoop/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>System and Low Level Programming</title>
+      <link>//localhost:1313/posts/syskill/</link>
+      <pubDate>Sun, 15 Jan 2023 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (Attaphat Chana)</author>
+      <guid>//localhost:1313/posts/syskill/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Intro to programming</title>
+      <link>//localhost:1313/posts/intro/</link>
+      <pubDate>Thu, 15 Sep 2022 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (Attaphat Chana)</author>
+      <guid>//localhost:1313/posts/intro/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

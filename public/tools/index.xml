@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>List of Tools Used on Blowfish</title>
+    <link>//localhost:1313/tools/</link>
+    <description>Recent content in List of Tools Used on Blowfish</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>youremail@example.com (Attaphat Chana)</managingEditor>
+    <webMaster>youremail@example.com (Attaphat Chana)</webMaster>
+    <copyright>© 2024 Attaphat Chana</copyright>
+    <lastBuildDate>Sun, 15 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tools/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Airflow</title>
+      <link>//localhost:1313/tools/airflow/</link>
+      <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (Attaphat Chana)</author>
+      <guid>//localhost:1313/tools/airflow/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Docker</title>
+      <link>//localhost:1313/tools/docker/</link>
+      <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (Attaphat Chana)</author>
+      <guid>//localhost:1313/tools/docker/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Elastic-Search</title>
+      <link>//localhost:1313/tools/elastic-search/</link>
+      <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (Attaphat Chana)</author>
+      <guid>//localhost:1313/tools/elastic-search/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Flask</title>
+      <link>//localhost:1313/tools/flask/</link>
+      <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (Attaphat Chana)</author>
+      <guid>//localhost:1313/tools/flask/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Kafka</title>
+      <link>//localhost:1313/tools/kafka/</link>
+      <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (Attaphat Chana)</author>
+      <guid>//localhost:1313/tools/kafka/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Kibana</title>
+      <link>//localhost:1313/tools/kibana/</link>
+      <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (Attaphat Chana)</author>
+      <guid>//localhost:1313/tools/kibana/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Spark</title>
+      <link>//localhost:1313/tools/spark/</link>
+      <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (Attaphat Chana)</author>
+      <guid>//localhost:1313/tools/spark/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>AWS</title>
+      <link>//localhost:1313/tools/aws/</link>
+      <pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (Attaphat Chana)</author>
+      <guid>//localhost:1313/tools/aws/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Matlibplot</title>
+      <link>//localhost:1313/tools/matlibplot/</link>
+      <pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (Attaphat Chana)</author>
+      <guid>//localhost:1313/tools/matlibplot/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Numpy</title>
+      <link>//localhost:1313/tools/numpy/</link>
+      <pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (Attaphat Chana)</author>
+      <guid>//localhost:1313/tools/numpy/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Pandas</title>
+      <link>//localhost:1313/tools/pandas/</link>
+      <pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (Attaphat Chana)</author>
+      <guid>//localhost:1313/tools/pandas/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Spring</title>
+      <link>//localhost:1313/tools/spring/</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (Attaphat Chana)</author>
+      <guid>//localhost:1313/tools/spring/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
